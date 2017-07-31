@@ -1,8 +1,5 @@
-@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
-
-
- body{
+#bootstrap-overrides body{
   font-family: "Roboto Slab", sans-serif;
   font-weight: 300;
   font-size: 2em;
