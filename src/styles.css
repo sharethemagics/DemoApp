@@ -1,11 +1,12 @@
 @import  '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
 
 body{
   font-family: "Roboto Slab", sans-serif;
   font-weight: 300;
   font-size: 2em;
   position: relative;
-  background-color: green;
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
